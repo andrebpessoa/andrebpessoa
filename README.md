@@ -1,41 +1,32 @@
-### Hello world 👋
+## Hello world 👋 ![](https://komarev.com/ghpvc/?username=andrebpessoa&label=visitors&color=2FC18C)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<h3>💻 Tech Stack</h3>
-
-</br>
-
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> ReactJS | 
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> Next.js | 
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" /> Jest | 
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /> Redux | 
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript | 
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML | 
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS
-
-<h3>🎓 Learning</h3>
-
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> | Typescript
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> | NodeJS
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> | Docker
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | SQL
-- <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> | MongoDB
-
----
+**I'm a Full-Stack development student from Brazil** </br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebpessoa&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=andrebpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <div align="left" style="display: inline_block">
+    <li>🖥️ Currently studying at @betrybe</li>
+    <li>📖 I love learn something new</li>
+    <li>💼 Searching for any opportunity</li>
+    <li>🔍 Cyber Security enthusiast</li>
+    <li>🌱 Learning about Back-End things</li>
+    <li>🐶 Fun fact: I love dogs</li>
+  </div>
 </div>
 
 ---
+
+### 💻 **Tech Stack**
+
+- **ReactJS** | **Jest** | **Redux** | **JavaScript** | **HTML** | **CSS**
+
+### 🎓 **Learning**
+
+- **Typescript** | **NodeJS** | **Docker** | **SQL** | **MongoDB**
+
+### 📬 **Get in Touch**
+
+- Discord: ap#7838
+- Email: andrebpessoa09@gmail.com
+- LinkedIn: https://www.linkedin.com/in/andrebpessoa/
+- Site: soon™
