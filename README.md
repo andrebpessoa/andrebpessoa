@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 Here are some ideas to get you started:
 
@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; ReactJS | HTML <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | CSS | JavaScript
+- 🔧 &nbsp;Visual Studio Code | Git 
 
 ---
 
