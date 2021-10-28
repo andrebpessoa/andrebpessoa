@@ -14,8 +14,6 @@
   </div>
 </div>
 
----
-
 ### 💻 **Tech Stack**
 
 - **ReactJS** | **Jest** | **Redux** | **JavaScript** | **HTML** | **CSS**
