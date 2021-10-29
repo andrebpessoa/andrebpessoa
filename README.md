@@ -4,8 +4,8 @@
   <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=andrebpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <div align="left" style="display: inline_block">
     <p>I'm a Full-Stack development student from Brazil</p>
-    <li>🖥️ Currently studying at @betrybe</li>
-    <li>📖 I love learn something new</li>
+    <li>🖥️ Currently studying at <a href="https://github.com/betrybe">@betrybe</a></li>
+    <li>📖 I love to learn something new</li>
     <li>💼 Searching for any opportunity</li>
     <li>🔍 Cyber Security enthusiast</li>
     <li>🌱 Learning about Back-End things</li>
@@ -25,7 +25,7 @@
 
 ### 📬 **Get in Touch**
 
-- Discord: ap#7838
+- Discord: <a href="https://discord.com/users/206494368289259521/">ap#7838</a>
 - Email: andrebpessoa09@gmail.com
 - LinkedIn: https://www.linkedin.com/in/andrebpessoa/
 - Site: soon™
