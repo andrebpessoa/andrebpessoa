@@ -7,7 +7,6 @@
     <li>🖥️ Currently studying at <a href="https://github.com/betrybe">@betrybe</a></li>
     <li>📖 I love to learn something new</li>
     <li>💼 Searching for any opportunity</li>
-    <li>🔍 Cyber Security enthusiast</li>
     <li>🌱 Learning about Back-End things</li>
     <li>🐶 Fun fact: I love dogs</li>
   </div>
@@ -17,11 +16,11 @@
 
 ### 💻 **Tech Stack**
 
-- **ReactJS** | **Jest** | **Redux** | **JavaScript** | **HTML** | **CSS**
+- **HTML** | **CSS** | **JavaScript** | **Typescript** | **NodeJS** | **ReactJS** |  **Docker** | **MySQL** | **Jest**
 
 ### 🎓 **Learning**
 
-- **Typescript** | **NodeJS** | **Docker** | **SQL** | **MongoDB**
+- **MongoDB**
 
 ### 📬 **Get in Touch**
 
