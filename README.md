@@ -6,7 +6,7 @@
     <p>I'm a Full-Stack development student from Brazil</p>
     <li>🖥️ Currently studying at <a href="https://github.com/betrybe">@betrybe</a></li>
     <li>📖 I love to learn something new</li>
-    <li>💼 Searching for any opportunity</li>
+    <li>💼 Working at <a href="https://github.com/empbank">@Empbank</a></li>
     <li>🌱 Learning about Back-End things</li>
     <li>🐶 Fun fact: I love dogs</li>
   </div>
@@ -16,11 +16,7 @@
 
 ### 💻 **Tech Stack**
 
-- **HTML** | **CSS** | **JavaScript** | **Typescript** | **NodeJS** | **ReactJS** |  **Docker** | **MySQL** | **Jest**
-
-### 🎓 **Learning**
-
-- **MongoDB**
+- **HTML** | **CSS** | **JavaScript** | **Typescript** | **NodeJS** | **ReactJS** |  **Docker** | **MySQL** | **MongoDB** | **Jest**
 
 ### 📬 **Get in Touch**
 
