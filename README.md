@@ -1,22 +1,17 @@
-## Hello world 👋 ![](https://komarev.com/ghpvc/?username=andrebpessoa&label=visitors&color=2FC18C) </br>
+## Hello World 👋</br>
 
 <div align="center">
   <img height="180em" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=andrebpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <div align="left" style="display: inline_block">
-    <p>I'm a Full-Stack development student from Brazil</p>
-    <li>🖥️ Currently studying at <a href="https://github.com/betrybe">@betrybe</a></li>
-    <li>📖 I love to learn something new</li>
-    <li>💼 Working at <a href="https://github.com/empbank">@Empbank</a></li>
-    <li>🌱 Learning about Back-End things</li>
-    <li>🐶 I love dogs</li>
+    <p>Backend Developer</p>
+    <li>💼 Trabalhando na <a href="https://github.com/empbank">@Empbank</a></li>
+    <li>🎮 Gamer nas horas vagas</li>
+    <li>📖 Amo aprender coisas novas</li>
+    <li>🌱 Sempre aprendendo coisas do universo Backend</li>
   </div>
 </div>
 
 ---
-
-### 💻 **Tech Stack**
-
-- **HTML** | **CSS** | **JavaScript** | **Typescript** | **NodeJS** | **ReactJS** |  **Docker** | **MySQL** | **MongoDB** | **Jest**
 
 ### 📬 **Get in Touch**
 
