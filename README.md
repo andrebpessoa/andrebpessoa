@@ -1,7 +1,7 @@
 ## Hello World 👋</br>
 
 <div align="center">
-  <img height="180em" align="right" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=andrebpessoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
+  <img height="180em" align="right" src="https://github-readme-stats-drab-nine.vercel.app/api?username=andrebpessoa&show_icons=true&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true"/>
   <div align="left" style="display: inline_block">
     <p>Backend Developer</p>
     <li>💼 Trabalhando na <a href="https://github.com/empbank">@Empbank</a></li>
@@ -11,11 +11,17 @@
   </div>
 </div>
 
----
+<br>
 
 ### 📬 **Get in Touch**
 
-- Discord: <a href="https://discord.com/users/206494368289259521/">ap#7838</a>
-- Email: andrebpessoa09@gmail.com
-- LinkedIn: https://www.linkedin.com/in/andrebpessoa/
-- Site: soon™
+<div align="center">
+  <img align="right" src="https://github-readme-stats-drab-nine.vercel.app/api/top-langs/?username=andrebpessoa&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact"/>
+  <div align="left" style="display: inline_block">
+    <p>Entre em contato :)</p>
+    <li>Discord: <a href="https://discord.com/users/206494368289259521/">ap#7838</a></li>
+    <li>Email: andrebpessoa09@gmail.com</li>
+    <li>LinkedIn: https://www.linkedin.com/in/andrebpessoa/</li>
+    <li>Site: soon™</li>
+  </div>
+</div>
