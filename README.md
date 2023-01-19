@@ -6,8 +6,7 @@
     <p>Backend Developer</p>
     <li>💼 Trabalhando na <a href="https://github.com/empbank">@Empbank</a></li>
     <li>🎮 Gamer nas horas vagas</li>
-    <li>📖 Amo aprender coisas novas</li>
-    <li>🌱 Sempre aprendendo coisas do universo Backend</li>
+    <li>📖 Sempre aprendendo coisas do universo Backend</li>
   </div>
 </div>
 
